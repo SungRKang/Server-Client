@@ -1,5 +1,5 @@
 # Server-Client
-Simple client that sends files to a server 
+Simple client that sends a message to a server 
 
 ## Description of the Project
 #### In this project the student will write a client that sends the string 
